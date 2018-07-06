@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_capi_provider">
+    <sn_capi_provider action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <datacenter_class/>
+        <description/>
+        <name>BlueCat</name>
+        <sys_class_name>sn_capi_provider</sys_class_name>
+        <sys_created_by>devaraj.sundararajan@snc</sys_created_by>
+        <sys_created_on>2018-06-29 18:59:33</sys_created_on>
+        <sys_id>98a28670dbcfd300c97a324d7c961918</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BlueCat</sys_name>
+        <sys_package display_value="MockBluecat" source="x_nutr_mockbluecat">ae0671f4db8fd300c97a324d7c96190d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MockBluecat">ae0671f4db8fd300c97a324d7c96190d</sys_scope>
+        <sys_update_name>sn_capi_provider_98a28670dbcfd300c97a324d7c961918</sys_update_name>
+        <sys_updated_by>devaraj.sundararajan@snc</sys_updated_by>
+        <sys_updated_on>2018-06-29 18:59:33</sys_updated_on>
+    </sn_capi_provider>
+</record_update>

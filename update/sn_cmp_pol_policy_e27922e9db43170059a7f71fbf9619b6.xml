@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_pol_policy">
+    <sn_cmp_pol_policy action="INSERT_OR_UPDATE">
+        <description/>
+        <end_date/>
+        <group_id/>
+        <is_global>false</is_global>
+        <is_system>false</is_system>
+        <moment>pre</moment>
+        <name>vSphereStaticIP</name>
+        <operation_id>134a77de0be622009e620bcb15673a05</operation_id>
+        <operation_name>134a77de0be622009e620bcb15673a05</operation_name>
+        <policy_order>1</policy_order>
+        <script/>
+        <start_date/>
+        <status>2</status>
+        <sys_class_name>sn_cmp_pol_policy</sys_class_name>
+        <sys_created_by>devaraj.sundararajan@snc</sys_created_by>
+        <sys_created_on>2018-07-02 05:48:54</sys_created_on>
+        <sys_id>e27922e9db43170059a7f71fbf9619b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>vSphereStaticIP</sys_name>
+        <sys_package display_value="MockBluecat" source="x_nutr_mockbluecat">ae0671f4db8fd300c97a324d7c96190d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MockBluecat">ae0671f4db8fd300c97a324d7c96190d</sys_scope>
+        <sys_update_name>sn_cmp_pol_policy_e27922e9db43170059a7f71fbf9619b6</sys_update_name>
+        <sys_updated_by>devaraj.sundararajan@snc</sys_updated_by>
+        <sys_updated_on>2018-07-02 05:48:54</sys_updated_on>
+        <target_entity_id>3</target_entity_id>
+        <target_entity_instance_id>6a4a735e0be622009e620bcb15673a04</target_entity_instance_id>
+        <target_entity_table>sn_cmp_rb_resourceblock</target_entity_table>
+    </sn_cmp_pol_policy>
+</record_update>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>3949a27cdb031700c97a324d7c961908</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="x_nutr_mockbluecat_bluecat_credentials">
+    <x_nutr_mockbluecat_bluecat_credentials action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_to>all</applies_to>
+        <authentication_key/>
+        <authentication_protocol/>
+        <classification>x_nutr_mockbluecat_bluecat</classification>
+        <mid_list/>
+        <name>BlueCat1</name>
+        <order>100</order>
+        <password/>
+        <privacy_key/>
+        <privacy_protocol/>
+        <ssh_passphrase/>
+        <ssh_private_key/>
+        <sys_class_name>x_nutr_mockbluecat_bluecat_credentials</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-29 21:50:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3949a27cdb031700c97a324d7c961908</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-29 21:50:43</sys_updated_on>
+        <tag/>
+        <type>x_nutr_mockbluecat_bluecat</type>
+        <user_name/>
+    </x_nutr_mockbluecat_bluecat_credentials>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-29 21:56:28</sys_created_on>
+        <sys_id>c42b6e7cdb031700c97a324d7c961981</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BlueCat1</sys_name>
+        <sys_package display_value="MockBluecat" source="x_nutr_mockbluecat">ae0671f4db8fd300c97a324d7c96190d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MockBluecat">ae0671f4db8fd300c97a324d7c96190d</sys_scope>
+        <sys_update_name>sys_metadata_link_c42b6e7cdb031700c97a324d7c961981</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-29 21:56:28</sys_updated_on>
+        <tablename>x_nutr_mockbluecat_bluecat_credentials</tablename>
+    </sys_metadata_link>
+</record_update>

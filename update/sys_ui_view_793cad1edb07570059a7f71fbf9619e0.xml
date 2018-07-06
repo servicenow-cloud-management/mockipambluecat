@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>store_usage_overview</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-04 09:12:30</sys_created_on>
+        <sys_id>793cad1edb07570059a7f71fbf9619e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Store_usage_overview</sys_name>
+        <sys_package display_value="MockBluecat" source="x_nutr_mockbluecat">ae0671f4db8fd300c97a324d7c96190d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MockBluecat">ae0671f4db8fd300c97a324d7c96190d</sys_scope>
+        <sys_update_name>sys_ui_view_793cad1edb07570059a7f71fbf9619e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-04 09:12:30</sys_updated_on>
+        <title>Store_usage_overview</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
